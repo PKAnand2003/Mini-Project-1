@@ -24,11 +24,14 @@ Step 5: The output is returned to the user in the form of a structured response,
 ### Program Flowchart
 ![image](https://github.com/PKAnand2003/Mini-Project-1/assets/139564679/211a1725-5ec8-467d-864f-52231e8345f1)
 
-## Results and Discussion
+## Result and Discussion
 ![image](https://github.com/PKAnand2003/Mini-Project-1/assets/139564679/69f6ef18-d2fb-421d-929b-78d61761cc87)
 ![image](https://github.com/PKAnand2003/Mini-Project-1/assets/139564679/049ec711-546f-4b43-8e9a-cd5479cf6bbe)
 ![image](https://github.com/PKAnand2003/Mini-Project-1/assets/139564679/a4f49a30-f7d4-4521-9a7f-26277343ff5b)
 ![image](https://github.com/PKAnand2003/Mini-Project-1/assets/139564679/d444c5c6-2081-4552-ac68-c19252076b53) <br>
 
 Hence, the project Py-QnA executed successfully. The program was able to answer the questions in a simple fashion. It was able to capture the essential information from the data store and could summarize the text.
+## Conclusion
+In conclusion, the project Py-QnA is a question answering system that utilizes state-of-the-art natural language processing techniques, specifically deep learning and transformer-based models, to generate answers to questions from academic literature. The system utilizes the RoBERTa language model which is fine-tuned on a large dataset of academic literature and is designed to understand natural language and provide context-aware responses.<p>
+This new system addresses the limitations of traditional question answering systems by providing context-aware and accurate responses to user-provided questions in natural language. The use of the RoBERTa language model and Haystack library allows the system to understand the natural language and extract specific information from the academic literature. This makes the new system more versatile and accurate than traditional rule-based or information retrieval-based systems.
 
