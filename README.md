@@ -16,11 +16,11 @@ The project is divided into 2 main components as shown in Figure 3.1- a Python b
 The program uses the python-based framework Haystack (7) for the NLP processing. Haystack is a Python framework that is used to extract structured information from unstructured text data. It is particularly useful for tasks such as question answering and information retrieval.<p>
 The module works by first pre-processing the text data, which includes cleaning and normalizing the text, tokenizing it, and converting it into a format that can be easily processed by machine learning models. The pre-processed text is then passed through a neural network-based model, such as RoBERTa, which is trained to understand natural language and extract relevant information from the text.
 ## Algorithm
-Step 1: Text data is collected and pre-processed, which includes cleaning the text and storing in a flexible database for easy indexing and fast retrieval.<b>
-Step 2: The pre-processed text is then passed through a neural network-based model- the Retriever, which is trained to understand natural language and extract relevant information from the text.<b>
-Step 3: Use the output of the retriever model to extract structured information from the text, such as named entities and relationships between entities.<b>
-Step 4: The extracted information is then used to generate answers to questions or to retrieve relevant information from the text.<b>
-Step 5: The output is returned to the user in the form of a structured response, such as a list of relevant documents or a specific answer to a question.<b>
+Step 1: Text data is collected and pre-processed, which includes cleaning the text and storing in a flexible database for easy indexing and fast retrieval.<br>
+Step 2: The pre-processed text is then passed through a neural network-based model- the Retriever, which is trained to understand natural language and extract relevant information from the text.<br>
+Step 3: Use the output of the retriever model to extract structured information from the text, such as named entities and relationships between entities.<br>
+Step 4: The extracted information is then used to generate answers to questions or to retrieve relevant information from the text.<br>
+Step 5: The output is returned to the user in the form of a structured response, such as a list of relevant documents or a specific answer to a question.<br>
 ### Program Flowchart
 ![image](https://github.com/PKAnand2003/Mini-Project-1/assets/139564679/211a1725-5ec8-467d-864f-52231e8345f1)
 
