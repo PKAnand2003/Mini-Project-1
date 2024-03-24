@@ -24,3 +24,11 @@ Step 5: The output is returned to the user in the form of a structured response,
 ### Program Flowchart
 ![image](https://github.com/PKAnand2003/Mini-Project-1/assets/139564679/211a1725-5ec8-467d-864f-52231e8345f1)
 
+## Results and Discussion
+![image](https://github.com/PKAnand2003/Mini-Project-1/assets/139564679/69f6ef18-d2fb-421d-929b-78d61761cc87)
+![image](https://github.com/PKAnand2003/Mini-Project-1/assets/139564679/049ec711-546f-4b43-8e9a-cd5479cf6bbe)
+![image](https://github.com/PKAnand2003/Mini-Project-1/assets/139564679/a4f49a30-f7d4-4521-9a7f-26277343ff5b)
+![image](https://github.com/PKAnand2003/Mini-Project-1/assets/139564679/d444c5c6-2081-4552-ac68-c19252076b53) <br>
+
+Hence, the project Py-QnA executed successfully. The program was able to answer the questions in a simple fashion. It was able to capture the essential information from the data store and could summarize the text.
+
